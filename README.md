@@ -1,3 +1,3 @@
 # sample readme
-Samuel Lay 0
-Vincent Le 10
+Samuel Lay 10
+Vincent Le 20
